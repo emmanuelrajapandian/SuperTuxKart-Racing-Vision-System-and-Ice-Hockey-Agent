@@ -14,6 +14,10 @@ Generated training dataset of over 300 episodes of agent gameplay for imitation 
 
 **Report:** [[Technical report](https://github.com/emmanuelrajapandian/emmanuelrajapandian.github.io/blob/main/files/Project%20Report.pdf)]
 
+**Game Play:**
+<p align="justify">
+Our team, represented by the blue players, faces off against the formidable Jurgen agent, represented by the red players, known as the strongest contender in the pool. Our agent demonstrates commendable performance both in defense and attack. This accomplishment was made possible through the integration of REINFORCE, layered atop imitation learning from the top-performing agent.</p>
+
 <p align="center">
   <img src="tournament-run.gif" alt="animated" />
 </p>
